@@ -11,7 +11,9 @@ function Skills() {
         <SkillList src = {checkMarkIcon} skill ='Power BI'/>
         <SkillList src = {checkMarkIcon} skill ='Python'/>
         <SkillList src = {checkMarkIcon} skill ='NoSQL'/>
-        <SkillList src = {checkMarkIcon} skill ='SSAS/SSIS/SSMS'/>
+        <SkillList src = {checkMarkIcon} skill ='SSAS/SSIS'/>
+        <SkillList src = {checkMarkIcon} skill ='Machine Learning'/>
+        <SkillList src = {checkMarkIcon} skill ='DeepLearning'/>
     </div>
     <hr />
     <h1 className='sectionTitle'>Certification</h1>
@@ -19,6 +21,7 @@ function Skills() {
         <SkillList src = {checkMarkIcon} skill ='PL/300 Microsoft Power BI'/>
         <SkillList src = {checkMarkIcon} skill ='SQL for Data Science(UCDAVIS)'/>
         <SkillList src = {checkMarkIcon} skill ='Machine learning (DeepLearning.AI)'/>
+        <SkillList src = {checkMarkIcon} skill ='Introduction Microsoft Fabric(Datacamp)'/>
         </div>
    </section> 
 

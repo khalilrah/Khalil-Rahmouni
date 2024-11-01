@@ -36,8 +36,7 @@ function Hero() {
           <img src={GithubIcon} alt="Github icon" /></a>
         </span>
         <p className={styles.description}>
-          Business Analytics student with strong skills in data analysis ,ETL 
-          processes , SQL , Python and Power BI 
+        Business Analytics student with strong skills in data analysis, ETL processes, SQL, Python, and Power BI, currently seeking an internship to apply and further develop these skills in a professional setting.
         </p>
         <a href={CV} download>
           <button className='hover'>

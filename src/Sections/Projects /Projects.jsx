@@ -2,6 +2,7 @@ import styles from './ProjectsStyles.module.css'
 import Paris from '../../assets/Paris.png'
 import finance from '../../assets/Finance.png'
 import bal from '../../assets/Bal.png'
+import Web from '../../assets/Portfolio Picture.webp'
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
@@ -18,6 +19,9 @@ function Projects() {
             <ProjectCard src={bal} link = {"https://github.com/khalilrah/"} 
             h3="integrated project"
             p="Data science / Business Intelligence"/>
+            <ProjectCard src={Web} link = {"https://github.com/khalilrah/Khalil-Rahmouni"} 
+            h3="Web Portfolio"
+            p="JavaScript/React/Html/CSS"/>
             
             
         </div>
