@@ -24,47 +24,34 @@ To get the project running locally:
    ```bash
    git clone <repository-url>
 Navigate to the project directory:
-bash
+```bash
 Copier le code
 cd portfolio-website
 Install dependencies:
-bash
+```bash
 Copier le code
 npm install
 Start the development server:
-bash
+```bash
 Copier le code
 npm run dev
 Open the website in your browser:
 arduino
 Copier le code
+```bash
 http://localhost:5173
 📦 Build for Production
 To create a production-ready build:
 
-bash
+```bash
 Copier le code
 npm run build
 Serve the build locally for testing:
 
-bash
+```bash
 Copier le code
 npm run preview
-📁 Folder Structure
-php
-Copier le code
-portfolio-website/
-├── public/          # Static files
-├── src/
-│   ├── assets/      # Images and other assets
-│   ├── components/  # Reusable components
-│   ├── pages/       # Page components
-│   ├── styles/      # CSS or SCSS styles
-│   ├── App.jsx      # Main App component
-│   └── main.jsx     # Entry point for Vite
-├── .eslintrc.js     # ESLint configuration
-├── vite.config.js   # Vite configuration
-└── package.json     # Project metadata and dependencies
+
 🌟 Acknowledgments
 Vite
 React
