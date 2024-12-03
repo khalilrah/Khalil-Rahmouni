@@ -23,55 +23,5 @@ To get the project running locally:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-Navigate to the project directory:
-```bash
-Copier le code
-cd portfolio-website
-Install dependencies:
-```bash
-Copier le code
-npm install
-Start the development server:
-```bash
-Copier le code
-npm run dev
-Open the website in your browser:
-arduino
-Copier le code
-```bash
-http://localhost:5173
-📦 Build for Production
-To create a production-ready build:
-
-```bash
-Copier le code
-npm run build
-Serve the build locally for testing:
-
-```bash
-Copier le code
-npm run preview
-
-🌟 Acknowledgments
-Vite
-React
-SWC
-👤 Author
-Khalil Rahmouni
-
-LinkedIn
-Portfolio (Link to your deployed site)
-📄 License
-This project is licensed under the MIT License.
-
-Feel free to contribute, share feedback, or report issues!
-
-markdown
-Copier le code
-
-### Adjustments
-- Replace `<repository-url>` with the GitHub link to your repository.
-- Update the **Acknowledgments** section or add any additional libraries/tools you've used.
-- Ensure the links for LinkedIn and portfolio are correct and functional.
 
 
